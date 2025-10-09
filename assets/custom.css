@@ -1,0 +1,55 @@
+/* Place custom css here. */
+@reference './app.css';
+
+@font-face {
+    font-family: "TimesDotRoman";
+    src: url('/fonts/timesdotrom-webfont.woff') format('woff');
+     font-weight: normal;
+    font-style: normal;
+}
+
+@layer theme {
+  :root, :host {
+    --font-serif: "Times New Roman", serif;
+    --standard-gap: calc(100vw / 12 );
+  }
+}
+
+  .grid-2col {
+    display: grid;
+    grid-template-columns: 1fr;
+    
+
+    gap: var(--standard-gap)
+  }
+   
+
+  .col-1-content{
+  
+  }
+
+  .col-2-content{
+
+  }
+
+  @media (max-width: 700px) {
+ 
+  }
+
+  @media (min-width: 1025px){
+
+    .grid-2col {
+      grid-template-columns: 1fr 1fr;
+    }
+    .col-2-content{
+     width: 83%;
+      }
+  }
+
+  .object-fit-cover{
+    object-fit: cover;
+  }
+
+  .min-h-400{
+    min-height: 400px;
+  }
