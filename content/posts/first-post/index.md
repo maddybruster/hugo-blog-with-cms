@@ -2,7 +2,7 @@
 title: Y/N
 author: Esther Yi
 date: 2025-10-07T13:39:00.000-04:00
-image: 21esther-yi-cover-superjumbo.webp
+image: yn.png
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Astra House, 2023. 
 
