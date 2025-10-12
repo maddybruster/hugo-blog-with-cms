@@ -2,13 +2,12 @@
 
 {{ range  ( where .Site.RegularPages "Type" "posts" ) }}
 <div class="grid-2col">
-  <div class="col-1-content">
+  <div class="col-1-content ">
 <h4>{{ .Title }}</h4>
-<p>{{ .Content }}</p>
+<p class="">{{ .Content }}</p>
   </div>
 
   <div class="col-2-content">
-   <div>
   {{ if .Params.image }}
    {{ with .Resources.ByType "image" }}
      {{ range . }}
@@ -20,11 +19,6 @@
 {{ end }}
    </div>
   </div>
-</div>
 
-    
 {{ end }}
-
-
-
 {{ end }}
