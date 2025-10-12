@@ -11,8 +11,8 @@
   {{ if .Params.image }}
    {{ with .Resources.ByType "image" }}
      {{ range . }}
-      {{ $scaled := .Resize "x300 q90" }}
-      <img src="{{ $scaled.Permalink }}">
+
+      <img src="{{ .Permalink }}">
      {{ end }}
     {{ end }}
 
