@@ -2,7 +2,7 @@
 
 {{ range  ( where .Site.RegularPages "Type" "posts" ) }}
 <div class="grid-2col">
-  <div class="col-1-content ">
+  <div class="col-1-content not-prose">
 <h4>{{ .Title }}</h4>
 <p class="">{{ .Content }}</p>
   </div>
