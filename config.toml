@@ -3,3 +3,9 @@ languageCode = 'en-us'
 title = 'Alexis Nowicki'
 theme = "paper"
 font = "TimesDotRoman"
+
+[menu]
+  [[menu.nav]]
+    name = "book publicity"
+    url = "/publicity/"
+    weight = 1

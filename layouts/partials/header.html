@@ -3,28 +3,30 @@
 >
   <div class="grid-2col w-full relative z-50 flex items-center ltr:mr-auto rtl:ml-auto">
     <a
-      class="-translate-y-[1px]"
+      class="site-title -translate-y-[1px]"
       href="{{- `` | absURL -}}"
       >{{ site.Title }}</a
     >
 
+
+
   <div
     class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full justify-start bg-(--bg) pb-16 duration-200 select-none lg:static lg:h-auto lg:flex-row lg:bg-transparent! lg:pb-0 lg:transition-none"
   >
-    {{- $url := .RelPermalink -}}<!---->
-    {{- with site.Menus.main -}}
+
     <nav
       class="lg:flex lg:flex-row lg:items-center lg:space-x-10 rtl:space-x-reverse"
     >
-      {{- range . -}}
-      <a
-        class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal"
-        href="{{- .URL -}}"
-        >{{- .Name -}}</a
-      >
-      {{- end -}}
+   {{ $current := . }}
+    {{ range .Site.Menus.nav }}
+
+      {{ $active := or ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }}
+    {{ $active = or $active (eq .Name $current.Title) }}
+    <a href="{{ .URL }}" class="{{ if $active }}active{{ end }}">{{ .Name }}</a>
+    {{ end }}
+     
     </nav>
-    {{- end -}}<!---->
+
 
   </div>
 </header>
