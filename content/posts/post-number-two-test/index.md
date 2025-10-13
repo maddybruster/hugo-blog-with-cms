@@ -2,6 +2,7 @@
 title: The Chronicles of DOOM
 author: S.H. Fernando Jr.
 date: 2025-10-13T12:40:00.000-04:00
+sort_order: 2
 image: doom.png
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Astra House, 2024. 
