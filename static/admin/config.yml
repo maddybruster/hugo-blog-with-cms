@@ -19,3 +19,13 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Featured Image", name: "image", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown", hint: "Make sure to name added image as thumbnail" }
+
+  - name: "pages" # A unique name for the collection
+    label: "Pages" # The label displayed in the CMS admin
+    folder: "content" # The folder where page files will be stored
+    create: true # Allow creating new entries
+    slug: "{{slug}}" # Template for file names
+    fields: # Define the fields for each page entry
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Permalink", name: "permalink", widget: "string", required: false} # Example for custom URLs

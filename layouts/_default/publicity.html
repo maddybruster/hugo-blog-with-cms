@@ -1,10 +1,12 @@
 {{ define "main" }}
 
 {{ range  ( where .Site.RegularPages "Type" "posts" ) }}
-<div class="grid-2col">
-  <div class="col-1-content not-prose">
-<h4>{{ .Title }}</h4>
-<p class="">{{ .Content }}</p>
+<div class=" publicity grid-2col mb-14">
+  <div class="col-1-content not-prose flex flex-col justify-center gap-4">  
+    <div>
+    <h4><i>{{ .Title }}</i></h4>
+    <h4 class="">{{ .Params.author }}</h4></div>
+      {{ .Content }}
   </div>
 
   <div class="col-2-content">
