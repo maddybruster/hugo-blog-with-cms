@@ -22,7 +22,7 @@
     --color-black: #000;
     --color-white: #fff;
     --hover-color: #009e13;
-    --standard-gap: calc(100vw / 12 );
+    --standard-gap: 1rem;
     --standard-spacer: 1rem;
     --spacing: 0.25rem;
     --text-xs: 0.75rem;
@@ -150,9 +150,14 @@ ul a:hover {
       gap: var(--standard-gap)
     }
 
+    .lg-mb-36 {
+    margin-bottom: calc(var(--spacing) * 36) !important
+    }
+
     @layer theme {
     :root, :host {
      --standard-spacer: 2rem;
+      --standard-gap: 2rem;
     }
     }
   }
@@ -161,13 +166,7 @@ ul a:hover {
 
   @media (min-width: 1020px){
 
-    .col-2-content.book * {
-     max-width: 65%;
-    }
 
-    .lg-mb-36 {
-    margin-bottom: calc(var(--spacing) * 36) !important
-    }
   }
 
   /* include large desktops */
@@ -175,6 +174,10 @@ ul a:hover {
       .col-1-content {
       margin-right: calc(2*(var(--standard-spacer)));
       }
+
+    .col-2-content.book * {
+     max-width: 65%;
+    }
 
 
     .granola-link {
@@ -185,9 +188,7 @@ ul a:hover {
       background-repeat: no-repeat;
       height:200px;
         min-width:350px;
-        position: absolute;
-        top: -50px;
-        right: 50px;
+       padding:0.5rem;
       align-items: center;
       justify-content: center;
 
@@ -199,8 +200,8 @@ ul a:hover {
       font-weight:bold;
       font-size:1rem;
       text-align:center;
-      width:75%;
       line-height:1.2rem;
+      max-width: 175px;
     }
 
     .granola-link:hover {
@@ -446,6 +447,9 @@ ul a:hover {
   }
   .mt-3 {
     margin-top: calc(var(--spacing) * 3);
+  }
+  .mt-8 {
+    margin-top: calc(var(--spacing) * 8);
   }
   .mt-12 {
     margin-top: calc(var(--spacing) * 12);
