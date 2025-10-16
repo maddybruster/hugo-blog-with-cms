@@ -136,24 +136,29 @@ ul a:hover {
  
   }
 
-  @media (min-width: 1025px){
+  @media (min-width: 1020px){
 
-    .grid-2col {
+    .grid-2col, .header-wrapper {
+      display: grid;
       grid-template-columns: 1fr 1fr;
+      gap: var(--standard-gap)
     }
 
     .col-2-content.book * {
      max-width: 65%;
       }
 
-    .col-1-content {
-      margin-right: calc(2*(var(--standard-spacer)));
-      }
-
     .lg-mb-36 {
     margin-bottom: calc(var(--spacing) * 36) !important
   }
   }
+
+   @media (min-width: 1280px){
+      .col-1-content {
+      margin-right: calc(2*(var(--standard-spacer)));
+      }
+
+   }
 
   .object-fit-cover{
     object-fit: cover;
@@ -529,6 +534,9 @@ ul a:hover {
   }
   .justify-start {
     justify-content: flex-start;
+  }
+  .justify-between {
+    justify-content: space-between;
   }
   .gap-2 {
     gap: calc(var(--spacing) * 2);
@@ -1329,3 +1337,4 @@ article {
   overflow: hidden;
 }
 }
+

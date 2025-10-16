@@ -1,12 +1,13 @@
 {{ define "main" }}
 
-<div class="grid-2col lg-mr-4 mb-12">
-  <div class="col-1-content">  
   {{ if .Content}}
+<div class="grid-2col">
+  <div class="col-1-content mb-12 lg-mr-4">  
     {{ .Content }}
-  {{ end }}
   </div>
 </div>
+  {{ end }}
+  
 {{ range ((where .Site.RegularPages "Section" "posts").ByParam "sort_order").Reverse }}
 <div class="publicity single-book grid-2col mb-24 lg-mb-36">
   <div class="col-1-content not-prose flex flex-col justify-start gap-4">  
