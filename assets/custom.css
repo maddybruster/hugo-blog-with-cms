@@ -140,7 +140,7 @@ ul a:hover {
   /* media queries */
 
   @media (min-width: 768px) {
-    .grid-2col {
+    .grid-2col, .header-wrapper {
       display: grid;
       grid-template-columns: 1fr 1fr;
       gap: var(--standard-gap)
