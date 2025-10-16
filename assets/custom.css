@@ -23,7 +23,7 @@
     --color-white: #fff;
     --hover-color: #009e13;
     --standard-gap: calc(100vw / 12 );
-    --standard-spacer: 2rem;
+    --standard-spacer: 1rem;
     --spacing: 0.25rem;
     --text-xs: 0.75rem;
     --text-xs--line-height: calc(1 / 0.75);
@@ -127,7 +127,11 @@ ul a:hover {
 .col-2-content * {
   max-width: 100%;
 }
-
+  
+.granola-link {
+      opacity:0% ;
+      display: none;
+  }
 
 
   .lg\:mt-12 {
@@ -146,25 +150,63 @@ ul a:hover {
       gap: var(--standard-gap)
     }
 
+    @layer theme {
+    :root, :host {
+     --standard-spacer: 2rem;
+    }
+    }
   }
+
+  /*include iPad and iPad Pro*/
 
   @media (min-width: 1020px){
 
     .col-2-content.book * {
      max-width: 65%;
-     
-      }
+    }
 
     .lg-mb-36 {
     margin-bottom: calc(var(--spacing) * 36) !important
-  }
+    }
   }
 
+  /* include large desktops */
    @media (min-width: 1280px){
       .col-1-content {
       margin-right: calc(2*(var(--standard-spacer)));
       }
 
+
+    .granola-link {
+     display: flex !important;
+     background-image: url("/images/star.svg");
+      background-position: center;
+      background-size: contain;
+      background-repeat: no-repeat;
+      height:200px;
+        min-width:350px;
+        position: absolute;
+        top: -50px;
+        right: 50px;
+      align-items: center;
+      justify-content: center;
+
+    }
+
+    .granola-link a, .granola-link a:hover {
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      color:red !important;
+      font-weight:bold;
+      font-size:1rem;
+      text-align:center;
+      width:75%;
+      line-height:1.2rem;
+    }
+
+    .granola-link:hover {
+            opacity:100%;
+
+    }
    }
 
   .object-fit-cover{
