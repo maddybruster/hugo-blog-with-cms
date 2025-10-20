@@ -1,11 +1,9 @@
 ---
 title: Granola
 ---
-Alexis's Signature Granola Recipe
-
+Alexis's Signature Granola Recipe<br>
 
 Ingredients
-
 
 1 cup chopped nuts and seeds of your choice1/2 cup coconut flakes1 tbs brown sugar1/2 tsp salt3 tbs coconut oil1/3 cup maple syrup or honey1 tsp vanilla
 Instructions
