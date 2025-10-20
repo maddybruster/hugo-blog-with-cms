@@ -3,7 +3,7 @@ title: What in Me Is Dark
 author: Orlando Reade
 date: 2025-10-13T12:40:00.000-04:00
 sort_order: 1
-image: 3740176-medium.jpg
+image: whatinmeisdark.png
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Astra House, 2023. 
 
