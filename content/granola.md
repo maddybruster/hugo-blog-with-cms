@@ -12,6 +12,8 @@ r1/2 tsp salt\
 3 tbs coconut oil\
 1/3 cup maple syrup or honey\
 1 tsp vanilla
+
+
 Instructions
 
 1. Heat oven to 325°F
