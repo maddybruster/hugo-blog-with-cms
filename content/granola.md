@@ -1,7 +1,7 @@
 ---
 title: Granola
 ---
-**Alexis's Signature Granola Recipe<br>**
+**<h1>Alexis's Signature Granola Recipe</h1>**
 
 **Ingredients**<br>
 
