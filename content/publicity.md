@@ -4,4 +4,4 @@ menu: main
 draft: "false"
 layout: publicity
 ---
-Alexis has led publicity campaigns for authors including Esther Yi, Hu Anyan, S.H. Fernando Jr., Kohei Saito, Brad Fox, Ingrid Robeyns, Jacqueline Rose, Alec MacGillis, Jonathan Slaght, Lori Ostlund, Tamara Shopsin, Molly McGhee, Victoria Kielland, francine j. harris, Sylvie Baumgartel, and Carl Phillips. See below for highlights.
+Alexis has led publicity campaigns for authors including Hu Anyan, Sylvie Baumgartel, S.H. Fernando Jr., Brad Fox, francine j. harris, Victoria Kielland, Alec MacGillis, Molly McGhee, Lori Ostlund, Carl Phillips, Ingrid Robeyns, Jacqueline Rose, Kohei Saito, Tamara Shopsin, Jonathan Slaght, and E.Y. Zhao. See below for highlights.
