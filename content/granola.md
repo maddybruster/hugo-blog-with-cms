@@ -1,6 +1,8 @@
 ---
-title: Alexis's Signature Granola Recipe
+title: Granola
 ---
+**Alexis's Signature Granola Recipe<br>**
+
 **Ingredients**<br>
 
 1 cup chopped nuts and seeds of your choice<br>\
