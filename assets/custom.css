@@ -30,7 +30,7 @@
     --text-sm: 0.875rem;
     --text-sm--line-height: calc(1.25 / 0.875);
     --text-base: 1rem;
-    --text-base--line-height: calc(1.5 / 1);
+    --text-base--line-height: calc(1.4 / 1);
     --text-lg: 1.125rem;
     --text-lg--line-height: calc(1.75 / 1.125);
     --text-xl: 1.25rem;
@@ -229,7 +229,7 @@ ul a:hover {
     border: 0 solid;
   }
   html, :host {
-    line-height: 1.5;
+    line-height: 1.4;
     -webkit-text-size-adjust: 100%;
     tab-size: 4;
     font-family: var( --default-font-family );
@@ -299,6 +299,13 @@ ul a:hover {
   ol, ul, menu {
     list-style: none;
   }
+
+  main ol {
+    list-style: decimal;
+    padding-left: var(--standard-spacer);
+  }
+
+ 
   img, svg, video, canvas, audio, iframe, embed, object {
     display: block;
     vertical-align: middle;
