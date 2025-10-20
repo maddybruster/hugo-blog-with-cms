@@ -5,7 +5,7 @@ date: 2025-10-07T13:39:00.000-04:00
 sort_order: 3
 image: yn.png
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Astra House, 2023. 
+Surreal, hilarious, and shrewdly poignant, *Y/N* is a provocative literary debut about the universal longing for transcendence and the tragic struggle to assert one's singular story amidst the amnesiac effects of globalization. Astra House, 2023.
 
 * Finalist for the [Center for Fiction First Novel Prize](https://centerforfiction.org/interviews/an-interview-with-esther-yi-2023-first-novel-prize-finalist-for-y-n/)
 * A *New York Times Book Review* Notable Book of 2023, *New York Times* 2023 Critics' Pick, *New Yorker* Best Book of 2023, NPR Best Book of 2023, *TIME* Must-Read Book of 2023, and Bookshop.org Best Book of 2023
