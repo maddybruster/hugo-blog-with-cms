@@ -1,12 +1,16 @@
 ---
 title: Granola
 ---
-Alexis’s Signature granola
-Here is attribution for the granola
+Alexis's Signature Granola Recipe
+Ingredients
+1 cup chopped nuts and seeds of your choice1/2 cup coconut flakes1 tbs brown sugar1/2 tsp salt3 tbs coconut oil1/3 cup maple syrup or honey1 tsp vanilla
+Instructions
 
-Horem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.
-
-Curabitur tempor quis eros tempus lacinia. Nam bibendum pellentesque quam a convallis. Sed ut vulputate nisi. Integer in felis sed leo vestibulum venenatis. Suspendisse quis arcu sem. Aenean feugiat ex eu vestibulum vestibulum. Morbi a eleifend magna. Nam metus lacus, porttitor eu mauris a, blandit ultrices nibh. 
-
-Mauris sit amet magna non ligula vestibulum eleifend. Nulla varius volutpat turpis sed lacinia. Nam eget mi in purus lobortis eleifend. Sed nec ante dictum sem condimentum ullamcorper quis venenatis nisi. Proin vitae facilisis nisi, ac posuere leo.
-
+1. Heat oven to 325°F
+2. In a large bowl, combine nuts & seeds, coconut flakes, brown sugar, and salt.
+3. In a small saucepan, melt coconut oil and maple syrup or honey. Add vanilla.
+4. Mix to coat.
+5. Spread on a parchment-lined baking sheet in an even layer, packed.
+6. Bake for 20 minutes, then rotate 180°, and bake for 5 more minutes.
+7. Cool completely before touching.
+8. Add optional dried fruit and crystalized ginger.
