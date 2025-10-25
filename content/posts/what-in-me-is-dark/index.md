@@ -2,7 +2,7 @@
 title: What in Me Is Dark
 author: Orlando Reade
 date: 2025-10-13T12:40:00.000-04:00
-sort_order: 2
+sort_order: 3
 image: whatinmeisdark.png
 ---
 A highly original hybrid of literary criticism and political history about the enduring, surprising, and ever-evolving relevance of Milton’s epic poem through the scandalous life of its creator and the revolutionary lives that were influenced by it. Astra House, 2024.
