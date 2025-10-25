@@ -1,7 +1,7 @@
 ---
 title: Jonathan Abernathy You Are Kind
 author: Molly McGhee
-sort_order: 4
+sort_order: 5
 image: jonathan.png
 ---
 A workplace novel, at once tender, startling, and deeply funny, *Jonathan Abernathy You Are Kind* is a stunning, critical work of surrealist fiction, a piercing critique of late-stage capitalism, and a reckoning with its true cost.
