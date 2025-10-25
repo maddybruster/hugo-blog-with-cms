@@ -2,7 +2,7 @@
 title: The Chronicles of DOOM
 author: S.H. Fernando Jr.
 date: 2025-10-13T12:40:00.000-04:00
-sort_order: 2
+sort_order: 3
 image: doom.png
 ---
 The definitive biography of MF DOOM, charting the reclusive and revered hip-hop artist’s life, career, and eventual immortality. Astra House, 2024.
