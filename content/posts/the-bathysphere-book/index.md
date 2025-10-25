@@ -1,7 +1,7 @@
 ---
 title: The Bathysphere Book
 author: Brad Fox
-sort_order: 7
+sort_order: 3
 image: bathysphere.png
 ---
 A wide ranging, philosophical, and sensual account of early deep sea exploration and its afterlives, *The Bathysphere Book* begins with the first ever voyage to the deep ocean in 1930 and expands to explore the adventures and entanglements of its all-too-human participants at a time when the world still felt entirely new.
