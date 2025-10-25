@@ -14,7 +14,7 @@ Surreal, hilarious, and shrewdly poignant, *Y/N* is a provocative literary debut
 * "Finally, Some Freaky K-pop Writing": review by Cat Zhang in *[Vulture](https://www.vulture.com/article/y-n-esther-yi-book-review-k-pop-fandom.html)*
 * "Toward Pop Literature": review by Olivia Kan-Sperling in *[n+1](https://www.nplusonemag.com/online-only/online-only/toward-pop-literature/)*
 * Additional reviews in *[The Guardian](<>)*, the *[Times Literary Supplement](https://www.the-tls.com/regular-features/in-brief/yn-esther-yi-book-review-mia-levitin)*, *[Reactor](https://reactormag.com/book-reviews-esther-yi-y-n/)*, the *[Chicago Review of Books](https://chireviewofbooks.com/2023/03/27/y-n/)*, *[Electric Literature](https://electricliterature.com/esther-yi-y-n-fan-fiction-k-pop-star/)*, and more
-* Positioned in the “Highbrow/Brilliant” quadrant of *New York* magazine’s [Approval Matrix](https://nymag.com/article/the-approval-matrix-week-of-march-27-2023.html)
+* “Highbrow/Brilliant” quadrant of *New York* magazine’s [Approval Matrix](https://nymag.com/article/the-approval-matrix-week-of-march-27-2023.html)
 * Mentioned by comedian Aparna Nancherla in the *[Wall Street Journal](https://www.wsj.com/arts-culture/books/who-read-what-in-2023-entertainers-and-artists-1a4d242f)*
 * Interviewed on NPR *[All Things Considered](https://www.npr.org/2023/03/21/1165092731/the-loneliness-of-the-central-character-in-esther-yis-y-n-is-universal)* and selected as NPR’s [Book of the Day](https://www.npr.org/2023/03/22/1165346313/fandom-acts-as-an-antidote-for-loneliness-in-y-n)
 * Selected for *Defector*’s “[Defector Reads a Book](https://defector.com/defector-reads-a-book-is-getting-low-key-parasocial-with-it)” book club
