@@ -9,7 +9,9 @@ Surreal, hilarious, and shrewdly poignant, *Y/N* is a provocative literary debut
 
 * Finalist for the [Center for Fiction First Novel Prize](https://centerforfiction.org/interviews/an-interview-with-esther-yi-2023-first-novel-prize-finalist-for-y-n/)
 * A *New York Times Book Review* Notable Book of 2023, *New York Times* 2023 Critics' Pick, *New Yorker* Best Book of 2023, NPR Best Book of 2023, *TIME* Must-Read Book of 2023, and Bookshop.org Best Book of 2023
-* Reviewed in *[The New York Times](https://www.nytimes.com/2023/03/14/books/esther-yi-y-n.html)* (Alexandra Jacobs), *[The New Yorker](https://www.newyorker.com/books/page-turner/what-is-the-appeal-of-fan-fiction)* (Katy Waldman), *[Vulture](https://www.vulture.com/article/y-n-esther-yi-book-review-k-pop-fandom.html)*, *[n+1](https://www.nplusonemag.com/online-only/online-only/toward-pop-literature/)*, 
+* "She Dropped Everything to Meet the K-Pop Star of Her Fantasies": review by Alexandra Jacobs in *[The New York Times](<>)* 
+* "What is the Appeal of Fan Fiction?": review by Katy Waldman in *[The New Yorker](https://www.newyorker.com/books/page-turner/what-is-the-appeal-of-fan-fiction)*
+*  (Katy Waldman), *[Vulture](https://www.vulture.com/article/y-n-esther-yi-book-review-k-pop-fandom.html)*, *[n+1](https://www.nplusonemag.com/online-only/online-only/toward-pop-literature/)*, 
 * Additional reviews in *[The Guardian](<>)*, the *[Times Literary Supplement](https://www.the-tls.com/regular-features/in-brief/yn-esther-yi-book-review-mia-levitin)*, *[Reactor](https://reactormag.com/book-reviews-esther-yi-y-n/)*, the *[Chicago Review of Books](https://chireviewofbooks.com/2023/03/27/y-n/)*, *[Electric Literature](https://electricliterature.com/esther-yi-y-n-fan-fiction-k-pop-star/)*, and more
 * Positioned in the “Highbrow/Brilliant” quadrant of *New York* magazine’s [Approval Matrix](https://nymag.com/article/the-approval-matrix-week-of-march-27-2023.html)
 * Mentioned by comedian Aparna Nancherla in the *[Wall Street Journal](https://www.wsj.com/arts-culture/books/who-read-what-in-2023-entertainers-and-artists-1a4d242f)*
