@@ -4,7 +4,7 @@ author: Molly McGhee
 sort_order: 5
 image: jonathan.png
 ---
-A workplace novel, at once tender, startling, and deeply funny, *Jonathan Abernathy You Are Kind* is a stunning, critical work of surrealist fiction, a piercing critique of late-stage capitalism, and a reckoning with its true cost.
+A workplace novel, at once tender, startling, and deeply funny, *Jonathan Abernathy You Are Kind* is a stunning, critical work of surrealist fiction, a piercing critique of late-stage capitalism, and a reckoning with its true cost. Astra House, 2023.
 
 * "This Science Fiction Novel Scrapes the Work Force of Human Suffering": review by Haley Mlotek in *[The New York Times Book Review](https://www.nytimes.com/2023/10/14/books/review/jonathan-abernathy-you-are-kind-molly-mcghee.html)*
 * "A biting debut for fans of George Saunders and *Severance*": review by Rafael Frumkin in the *[Washington Post](https://www.washingtonpost.com/books/2023/10/24/jonathan-abernathy-you-are-kind-molly-mcghee-review/)*
