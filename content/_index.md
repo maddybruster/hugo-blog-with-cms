@@ -9,6 +9,8 @@ Alexis is also the copy editor of *[Cake Zine](https://cakezine.com/)*, *[Hard P
 
 She has written for *Slate*, *Dirt*, and *Electric Eel*.
 
+Her tweets have been among "[The 50 Funniest Tweets From Women In 2024](https://www.huffpost.com/entry/funniest-tweets-women-2024_l_67622ed4e4b0a89003b106ef)" and "[22 Of The Funniest Tweets About Cats And Dogs This Week](https://www.huffingtonpost.co.uk/entry/22-of-the-funniest-tweets-about-cats-and-dogs-this-week-may-20-26_uk_6471b6afe4b091b09c2d3770)," according to *HuffPost*.
+
 With Maria Robins-Somerville, she runs the quarterly reading series Reading 101 at Night Club 101. The next installment is on November 12—RSVP [here](https://www.ticketweb.com/event/reading-101-night-club-101-tickets/14628993).
 
 She loves email: [alexis.nowicki@gmail.com](mailto:alexis.nowicki@gmail.com). Instagram is ok, too: [@alexisnowicki](https://www.instagram.com/alexisnowicki/?hl=en).
