@@ -2,7 +2,7 @@
 title: Y/N
 author: Esther Yi
 date: 2025-10-07T13:39:00.000-04:00
-sort_order: 6
+sort_order: 7
 image: yn.png
 ---
 Surreal, hilarious, and shrewdly poignant, *Y/N* is a provocative literary debut about the universal longing for transcendence and the tragic struggle to assert one's singular story amidst the amnesiac effects of globalization. Astra House, 2023.
