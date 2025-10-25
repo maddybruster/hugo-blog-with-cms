@@ -5,7 +5,7 @@ date: 2025-10-13T12:40:00.000-04:00
 sort_order: 1
 image: whatinmeisdark.png
 ---
-A highly original hybrid of literary criticism and political history, telling of the enduring, surprising and ever-evolving relevance of Milton’s epic poem through the scandalous life of its creator and the revolutionary lives that were influenced by it. Astra House, 2023.
+A highly original hybrid of literary criticism and political history, *What in Me Is Dark* tells the story of the enduring, surprising, and ever-evolving relevance of Milton’s epic poem through the scandalous life of its creator and the revolutionary lives that were influenced by it. Astra House, 2023.
 
 * "What Satan’s Biographer Can Teach Us About Tyranny and Resistance": review by Ed Simon in the *[New York Times Book Review](<>)*
 * "A Milton for All Seasons": review by Catherine Nicholson in the *[New York Review of Books](<>)*
