@@ -5,7 +5,7 @@ date: 2025-10-13T12:40:00.000-04:00
 sort_order: 2
 image: doom.png
 ---
-The definitive biography of MF DOOM, charting the reclusive and revered hip-hop artist’s life, career, and eventual immortality.
+The definitive biography of MF DOOM, charting the reclusive and revered hip-hop artist’s life, career, and eventual immortality. Astra House, 2024.
 
 * A *Variety*, *FLOOD*, *Clash*, and *Mother Jones* best book of 2024
 * Reviewed in the *[San Francisco Chronicle](https://datebook.sfchronicle.com/books/review-chronicles-doom-s-h-fernando-jr-19830406)*, *[The Guardian](https://www.theguardian.com/books/2024/nov/24/the-chronicles-of-doom-review-sh-fernando-unmasking-hip-hops-peerless-prankster)*, and *[The Washington Post](https://www.washingtonpost.com/books/2024/11/01/mf-doom-chronicles-biography-fernando-review/)*
