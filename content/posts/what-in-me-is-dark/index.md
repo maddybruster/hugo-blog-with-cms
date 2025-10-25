@@ -11,10 +11,10 @@ A highly original hybrid of literary criticism and political history, telling of
 * "A Milton for All Seasons": review by Catherine Nicholson in the *[New York Review of Books](<>)*
 * "Sure, 'Paradise Lost' is Radical, but Did You Know it Was Sexy?": review by Merve Emre in the *[New Yorker](<>)*
 * "Paradises Lost and Found": review by Benjamin Shull in the *[Wall Street Journal](<>)*
-* "*What in Me Is Dark*—Paradise Lost revisited": reviewed in the *[Financial Times](<>)*
-* "*What in Me Is Dark* review—the incredible afterlife of *Paradise Lost*": reviewed by Joe Moshenska in the *[Guardian](<>)*
-* "Disobedient reading": reviewed by Andrea Brady in the *[Times Literary Supplement](<>)*
-* "Why do rebels and revolutionaries love 'Paradise Lost'?": reviewed in the *[Economist](<>)*
+* "*What in Me Is Dark*—Paradise Lost revisited": review in the *[Financial Times](<>)*
+* "*What in Me Is Dark* review—the incredible afterlife of *Paradise Lost*": review by Joe Moshenska in the *[Guardian](<>)*
+* "Disobedient reading": review by Andrea Brady in the *[Times Literary Supplement](<>)*
+* "Why do rebels and revolutionaries love 'Paradise Lost'?": review in the *[Economist](<>)*
 * Reviewed in the *[Chicago Review of Books](https://chireviewofbooks.com/2024/12/20/what-in-me-is-dark/)*
 * Selected as a *New York Times Book Review* [Editors’ Choice](https://www.nytimes.com/2024/12/26/books/review/new-books-recommendations.html)
 * Original pieces in *[Jacobin](https://jacobin.com/2024/11/john-milton-paradise-lost-revolution)* and *[The Nation](https://www.thenation.com/article/culture/right-wing-epic-poetry/)*
