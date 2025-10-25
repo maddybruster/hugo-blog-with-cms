@@ -12,7 +12,7 @@ A highly original hybrid of literary criticism and political history about the e
 * "Sure, 'Paradise Lost' is Radical, but Did You Know it Was Sexy?": review by Merve Emre in the *[New Yorker](<>)*
 * "Paradises Lost and Found": review by Benjamin Shull in the *[Wall Street Journal](<>)*
 * "*What in Me Is Dark*—Paradise Lost revisited": review in the *[Financial Times](<>)*
-* "*What in Me Is Dark* review—the incredible afterlife of *Paradise Lost*": review by Joe Moshenska in the *[Guardian](<>)*
+* "The incredible afterlife of *Paradise Lost*": review by Joe Moshenska in the *[Guardian](<>)*
 * "Disobedient reading": review by Andrea Brady in the *[Times Literary Supplement](<>)*
 * "Why do rebels and revolutionaries love 'Paradise Lost'?": review in the *[Economist](<>)*
 * Reviewed in the *[Chicago Review of Books](https://chireviewofbooks.com/2024/12/20/what-in-me-is-dark/)*
