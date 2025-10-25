@@ -1,8 +1,8 @@
-baseURL = 'https://gentle-daffodil-2.netlify.app'
+baseURL = 'https://alexisnowicki.netlify.app'
 languageCode = 'en-us'
 title = 'Alexis Nowicki'
 theme = "paper"
-font = "TimesDotRoman"
+font = "TimesNewRoman"
 
 [menu]
   [[menu.nav]]

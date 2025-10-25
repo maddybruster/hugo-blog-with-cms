@@ -3,12 +3,6 @@
 
 @reference './app.css';
 
-@font-face {
-    font-family: "TimesDotRoman";
-    src: url('/fonts/timesdotrom-webfont.woff') format('woff');
-     font-weight: normal;
-    font-style: normal;
-}
 
 @layer theme {
   :root, :host {
