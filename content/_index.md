@@ -5,7 +5,7 @@ Alexis Nowicki is a writer, publicist, and copy editor who lives in Brooklyn, NY
 
 She is currently a senior publicist at Astra House, where she has run campaigns for books like Esther Yi’s *Y/N* and S.H. Fernando Jr.’s *The Chronicles of DOOM*. Prior to that, at Farrar, Straus and Giroux, she handled campaigns for fiction, nonfiction, and poetry books including Tamara Shopsin’s *LaserWriter II*, Jonathan Slaght’s *Owls of the Eastern Ice*, and francine j. harris’s *Here Is the Sweet Hand*. Read more about her publicity work—featuring placements from NPR to the Approval Matrix—[here](/publicity).
 
-Alexis is also the copy editor of *[Cake Zine](https://cakezine.com/)*, *[Hard Pack](https://www.hardpackmagazine.com/)*, and *[Elastic](https://www.elasticmag.com/)* magazines. She copy edited the most recent issue of *[Third Place Zine](https://thirdplacezine.com/)*.
+Alexis is also the copy editor of *[Cake Zine](https://cakezine.com/)*, *[Hard Pack](https://www.hardpackmagazine.com/)*, and *[Elastic](https://www.elasticmag.com/)* magazines. She copy edited the forthcoming issue of *[Third Place Zine](https://thirdplacezine.com/)*.
 
 She has written for *[Slate](https://slate.com/human-interest/2021/07/cat-person-kristen-roupenian-viral-story-about-me.html)*, *[Dirt](https://dirt.fyi/article/2022/10/99-glimpses)*, and *[Electric Eel](https://mailchi.mp/cf37f89c320d/strava-is-my-family-photo-album)*.
 
