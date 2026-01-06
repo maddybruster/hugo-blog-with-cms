@@ -5,6 +5,8 @@ title: Granola
 
 **Ingredients**<br>
 
+1 1/2 cups rolled oats
+
 1 cup chopped nuts and seeds of your choice<br>\
 1/2 cup coconut flakes<br>\
 1 tbs brown sugar<br>\
